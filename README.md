@@ -6,7 +6,7 @@ This repository now includes a full implementation of the paper method in `metho
 - `DADPFed-SAM`
 
 It is integrated into the existing federated learning framework (`train.py`, `server/`, `client/`) and can run directly on the dataset in `data/`.
-
+![Framework Diagram](./framework.png)
 ## 1. What Was Implemented
 
 ### New methods

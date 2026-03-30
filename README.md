@@ -5,9 +5,9 @@ This repository accompanies the manuscript submitted to *The Visual Computer*:
 **Drift-Aware Dynamic Pruning: A Stabilising Heuristic for Heterogeneous Federated Action Recognition**
 
 It provides the runnable implementation of the proposed methods, experiment scripts, and the dataset-construction / preprocessing pipeline needed to reproduce the reported federated learning experiments as closely as possible.
-![Framework Diagram](./framework.png)
----
 
+---
+![Framework Diagram](./framework.png)
 ## Citation
 
 If you use this code, scripts, or reconstruction pipeline in your research, please cite the corresponding manuscript:

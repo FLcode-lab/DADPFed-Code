@@ -1,3 +1,18 @@
+# DADPFed-Code
+This repository accompanies the manuscript submitted to *The Visual Computer*.
+
+## Citation
+If you use this code in your research, please cite our manuscript:
+Zhihao Liu, Wei Guo, Jie Wu, Mengke Zhu, Jiamin Liang.
+Drift-Aware Dynamic Pruning: A Stabilising Heuristic for Heterogeneous Federated Action Recognition.
+*The Visual Computer*, 2025.
+
+## Permanent Archive
+Zenodo DOI (permanent, citable): https://doi.org/10.5281/zenodo.19325591
+
+## Data Note
+Raw video data is derived from public benchmarks (Kinetics-MA, UCF101-MA). Due to copyright constraints, raw videos are not included; all subset construction and preprocessing scripts are provided for full reproducibility.
+
 # DADPFed Reproduction in FL-main
 
 This repository now includes a full implementation of the paper method in `method.txt`:
